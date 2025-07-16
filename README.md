@@ -12,6 +12,14 @@
 💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒓𝒆𝒍𝒊𝒂𝒃𝒍𝒆 𝒔𝒆𝒓𝒗𝒊𝒄𝒆𝒔 𝒂𝒏𝒅 𝒂𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒏𝒈 𝒕𝒉𝒆 𝒓𝒐𝒖𝒕𝒊𝒏𝒆.  
 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔 — 𝒄𝒐𝒅𝒆 𝒔𝒑𝒆𝒂𝒌𝒔 𝒍𝒐𝒖𝒅𝒆𝒓 𝒕𝒉𝒂𝒏 𝒘𝒐𝒓𝒅𝒔.
 
+<div align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=30&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=250&lines=👨‍💻+𝑰+❤️+𝑱𝒖𝒏𝒊𝒐𝒓+𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒆𝒓+𝑳𝒊𝒇𝒆!;⚙️+𝑨+𝒔𝒆𝒓𝒗𝒆𝒓-𝒔𝒊𝒅𝒆+𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕+𝒘𝒊𝒕𝒉+𝒂+𝒑𝒂𝒔𝒔𝒊𝒐𝒏+𝒇𝒐𝒓+𝑪/𝑪%2B%2B+𝒂𝒏𝒅+𝑫𝒐𝒄𝒌𝒆𝒓.;🐧+𝙇𝙞𝙣𝙪𝙭+𝙩𝙬𝙚𝙖𝙠𝙚𝙧+%7C+🗄️+𝙎𝙌𝙇+𝙥𝙡𝙖𝙮𝙚𝙧+%7C+🐳+𝘿𝙤𝙘𝙠𝙚𝙧+𝙜𝙚𝙚𝙠+%7C+🔧+𝘿𝙚𝙫𝙊𝙥𝙨+𝙖𝙥𝙥𝙧𝙚𝙣𝙩𝙞𝙘𝙚;💡+𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆+𝒂𝒃𝒐𝒖𝒕+𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈+𝒓𝒆𝒍𝒊𝒂𝒃𝒍𝒆+𝒔𝒆𝒓𝒗𝒊𝒄𝒆𝒔+𝒂𝒏𝒅+𝒂𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒏𝒈+𝒕𝒉𝒆+𝒓𝒐𝒖𝒕𝒊𝒏𝒆.;𝑬𝒙𝒑𝒍𝒐𝒓𝒆+𝒎𝒚+𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔+—+𝒄𝒐𝒅𝒆+𝒔𝒑𝒆𝒂𝒌𝒔+𝒍𝒐𝒖𝒅𝒆𝒓+𝒕𝒉𝒂𝒏+𝒘𝒐𝒓𝒅𝒔." width="70%" />
+<br><br>
+</div>
+
+
+
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </p>
 
