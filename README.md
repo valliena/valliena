@@ -20,23 +20,23 @@
 
 ## 📊 Статистика GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТвойНик&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТвойНик&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=valliena&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valliena&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ---
 
 ## 🔥 Активность
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ТвойНик&theme=tokyonight&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=valliena&theme=tokyonight&hide_border=true">
 </p>
 
 ---
 
 ## 🚀 Мои проекты
-- [WeatherApp](https://github.com/ТвойНик/WeatherApp) – сервис прогноза погоды на Spring Boot  
-- [TodoAPI](https://github.com/ТвойНик/TodoAPI) – API для задач с авторизацией JWT  
-- [PortfolioSite](https://github.com/ТвойНик/PortfolioSite) – личный сайт на React + Tailwind  
+- [WeatherApp](https://github.com/valliena/WeatherApp) – сервис прогноза погоды на Spring Boot  
+- [TodoAPI](https://github.com/valliena/TodoAPI) – API для задач с авторизацией JWT  
+- [PortfolioSite](https://github.com/valliena/PortfolioSite) – личный сайт на React + Tailwind  
 
 ---
 
