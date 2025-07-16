@@ -22,9 +22,10 @@
 
 ---
 
-## 📊 Статистика GitHub
-<p align="center">
+## 𝗦𝘁𝗮𝘁𝘀
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=valliena&show_icons=true&theme=tokyonight" height="165">
+<p>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valliena&layout=compact&theme=tokyonight" height="165">
 </p>
 
