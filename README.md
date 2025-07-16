@@ -1,4 +1,6 @@
-<h1 align="center">Привет! Я Егор 👋</h1>
+<h1 align="center">𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Egor Masalskiy</h1>
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="center">
   <b>Backend-разработчик | C/C++, SQL, Docker, Linux</b><br>
