@@ -37,14 +37,14 @@
 
 ---
 
-## 🔥 Активность
+## 🔥 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=valliena&theme=tokyonight&hide_border=true">
 </p>
 
 ---
 
-## 🚀 Мои проекты
+## 🚀 𝗺𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 - [В процессе](https://github.com/valliena/WeatherApp) – думаю...  
 
 ---
