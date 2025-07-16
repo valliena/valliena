@@ -12,10 +12,7 @@
 💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒓𝒆𝒍𝒊𝒂𝒃𝒍𝒆 𝒔𝒆𝒓𝒗𝒊𝒄𝒆𝒔 𝒂𝒏𝒅 𝒂𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒏𝒈 𝒕𝒉𝒆 𝒓𝒐𝒖𝒕𝒊𝒏𝒆.  
 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔 — 𝒄𝒐𝒅𝒆 𝒔𝒑𝒆𝒂𝒌𝒔 𝒍𝒐𝒖𝒅𝒆𝒓 𝒕𝒉𝒂𝒏 𝒘𝒐𝒓𝒅𝒔.
 
-<br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
-
 </p>
 
 ---
