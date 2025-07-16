@@ -45,9 +45,7 @@
 ---
 
 ## 🚀 Мои проекты
-- [WeatherApp](https://github.com/valliena/WeatherApp) – сервис прогноза погоды на Spring Boot  
-- [TodoAPI](https://github.com/valliena/TodoAPI) – API для задач с авторизацией JWT  
-- [PortfolioSite](https://github.com/valliena/PortfolioSite) – личный сайт на React + Tailwind  
+- [В процессе](https://github.com/valliena/WeatherApp) – думаю...  
 
 ---
 
